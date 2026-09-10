@@ -1,0 +1,12 @@
+"""Problem 2 ⭐ — Even / Odd
+
+Take a number from the user and print whether it is:
+Even
+or
+Odd"""
+
+num = int(input("Enter number: "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
