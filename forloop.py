@@ -32,8 +32,40 @@ for i in range(5):
 
 #'s calculate: 1 + 2 + 3 + 4 + 5 Using a for loop: output 15
 
-total = 0
+"""total = 0
 
 for i in range(1, 6):
     total += i
-print(total)
+print(total)"""
+
+"""for number in range(1,15):
+    print(number)"""
+
+"""number = 1
+while number <= 15:
+    print(number)
+    number += 1"""
+
+"""password = ""
+
+while password != "python123":
+    password = input("Enter password: ")
+
+print("Login successful")"""
+
+#print numbers 1 to 5
+"""
+for number in range(1,6):
+    print(number)"""
+
+#Print numbers from 10 down to 1.
+
+"""for numbers in range(10,0,-1):
+    print(numbers)"""
+
+password = ""
+
+while password != "purvi1":
+    password = input("Enter Password: ")
+
+print("Login Success")
