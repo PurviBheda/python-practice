@@ -14,8 +14,11 @@ strip()
 lower()
 replace()"""
 
-print("---Text Cleaner---")
+"""print("---Text Cleaner---")
 sentence = input("Enter any sentence: ")
 sentence = sentence.strip().lower().replace("Java", "Python")
-print(sentence)
+print(sentence)"""
 
+#print("python".upper())
+#print("hello".find("l"))
+print("banana".count("a"))
